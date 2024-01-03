@@ -1,0 +1,4 @@
+package com.example.tubes;
+public interface Kalkulasi {
+    int hitungTotal(int jumlah);
+}
